@@ -2,7 +2,6 @@
 title: FullStack Developer
 ---
 
-# FullStack Developer
 ### Back-End: Java - SpringBoot  
 ### Front-End: React.js - Next.js
 
