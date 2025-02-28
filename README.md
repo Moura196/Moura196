@@ -15,7 +15,7 @@
 ### Back-End: Java - SpringBoot  
 ### Front-End: React.js - Next.js
    - ### Important Links:
-     - <a name="repository" href="https://github.com/Moura196/dio-desafio-github">Fullstack Developer TQI Bootcamp<a>
+     - <a name="repository" href="https://github.com/Moura196/dio-desafio-github/tree/main/1%C2%BA%20Bootcamp%20FQI%20Fullstack%20Developer">Fullstack Developer TQI Bootcamp<a>
 
 > “I’m very conscious of the fact that you can’t do it alone. It’s teamwork. When you do it alone you run the risk that when you are no longer there nobody else will do it.” - Wangari Maathai
 
