@@ -1,4 +1,4 @@
-# FullStack Developer
+# Web and Mobile Fullstack Developer
    - ## About me:
      - Currently studying Systems Analysis and Development at Senai-SC, focus on becoming a Web and Mobile Fullstack developer.
      - About to start a specialization course focus on Java technology at UTFPR to get a better understand of what is this programming language potential.
