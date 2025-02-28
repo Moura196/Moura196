@@ -1,5 +1,5 @@
 # FullStack Developer
-   - ### About me:
+   - ## About me:
      - Currently studying Systems Analysis and Development at Senai-SC, focus on becoming a Web and Mobile Fullstack developer.
      - About to start a specialization course focus on Java technology at UTFPR to get a better understand of what is this programming language potential.
      - Studying Fullstack Developer TQI Bootcamp at the DIO platform, which you can see my progress at my [repository](#repository).
@@ -29,10 +29,10 @@
    - Postman;
 </details>
 
-   - ### Important Links:
+   - ## Important Links:
      - <a name="repository" href="https://github.com/Moura196/dio-desafio-github/tree/main/1%C2%BA%20Bootcamp%20FQI%20Fullstack%20Developer">Fullstack Developer TQI Bootcamp<a>
-     - <a name="github_pages" href="https://moura196.github.io/Moura196/">My blog</a>
      - <a name="inCertifications" href="https://www.linkedin.com/in/gabrielmoura96/details/certifications/">LinkedIn certifications</a>
+     - <a name="github_pages" href="https://moura196.github.io/Moura196/">My blog</a>
 
 > “I’m very conscious of the fact that you can’t do it alone. It’s teamwork. When you do it alone you run the risk that when you are no longer there nobody else will do it.” - Wangari Maathai
 
