@@ -1,5 +1,5 @@
 # FullStack Developer
-   - ### About me:
+   - ### About me::::::::::
      - I am currently studying Systems Analysis and Development at Senai-SC, focus on becoming a Web and Mobile Full Stack developer. And I am about to start a specialization course focus on Java technology at UTFPR to get a better knowledge of what I can do with this programming language.  
      - Also I am studying Fullstack Developer TQI Bootcamp at the DIO platform, which you can see my progress at my [repository](#repository).  
      - If you want to know more about my journey you can visit my [blog](https://moura196.github.io/Moura196/) that I've created with Github Pages.
