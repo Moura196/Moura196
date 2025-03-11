@@ -1,7 +1,7 @@
 # Web and Mobile Fullstack Developer
    - ## About me:
      - Currently studying Systems Analysis and Development at Senai-SC, focus on becoming a Web and Mobile Fullstack developer.
-     - About to start a specialization course focus on Java technology at UTFPR to get a better understand of what is this programming language potential.
+     - Started a specialization course focus on Java technology at UTFPR to get a better understand of what is this programming language potential.
      - Studying Fullstack Developer TQI Bootcamp at the DIO platform, which you can see my progress at my [repository](#repository).
      - An other platform that I use to study is the Learning and you can see all my [certifications](#inCertifications) at my LinkedIn profile.
      - If you want to know more about my journey and thoughts you can visit my [blog](#github_pages) that I've created with Github Pages.  
