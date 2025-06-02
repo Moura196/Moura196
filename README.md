@@ -15,7 +15,7 @@
    
    - <strong>Database:</strong> SQL - MySQL, PostgreSQL, SQLServer, NoSQL;  
    
-   - <strong>Front-End:</strong> React.js - Next.js;
+   - <strong>Front-End:</strong> React.js - Next.js, AngularJS;
 </details>
 <details open>
    <summary><strong>Tools</strong></summary>  
