@@ -39,7 +39,7 @@
      - <a name="MLrepository" href="https://github.com/Moura196/dio-desafio-github/tree/main/Formacao%20Machine%20Learning%20Specialist">Formação Machine Learning Specialist<a>
      - <a name="KDEVrepository" href="https://github.com/Moura196/dio-desafio-github/tree/main/Forma%C3%A7%C3%A3o%20Kotlin%20Back-end%20Developer">Formação Kotlin Back-end Developer<a>
      - <a name="GitEducLink" href="https://learn.microsoft.com/pt-br/users/gabrielmoura-6573/">Github Educations Certifications</a>
-     - <a name="inCertifications" href="https://www.linkedin.com/in/gabrielmoura96/details/certifications/">LinkedIn certifications</a>
+     - <a name="inCertifications" href="https://www.linkedin.com/in/gabrielmoura96/details/certifications/">LinkedIn Certifications</a>
      - <a name="github_pages" href="https://moura196.github.io/Moura196/">My blog</a>
 
 > “I’m very conscious of the fact that you can’t do it alone. It’s teamwork. When you do it alone you run the risk that when you are no longer there nobody else will do it.” - Wangari Maathai
