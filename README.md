@@ -3,9 +3,9 @@
      - Graduated on Systems Analysis and Development at Senai-SC, focus on becoming a Web and Mobile Fullstack developer.
      - Started a specialization course focus on Java technology at UTFPR to get a better understand of what is this programming language potential.
      - Studying three courses at the DIO platform, which you can see my progress at:
-        - [Fullstack Developer TQI Bootcamp](#TQIrepository).
-        - [Formação Machine Learning Specialist](#MLrepository).
-        - [Formação Kotlin Back-end Developer](#KDEVrepository).
+        - [Fullstack Developer](#TQIrepository).
+        - [Machine Learning](#MLrepository).
+        - [Kotlin Back-End](#KDEVrepository).
      - An other platform that I use to study is the Learning and you can see all my [certifications](#inCertifications) at my LinkedIn profile.
      - If you want to know more about my journey and thoughts you can visit my [blog](#github_pages) that I've created with Github Pages.  
 
