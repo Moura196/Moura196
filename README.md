@@ -6,6 +6,8 @@
         - [Fullstack Developer](#TQIrepository).
         - [Machine Learning](#MLrepository).
         - [Kotlin Back-End](#KDEVrepository).
+     - I am studying "Github Foundations" course from Github and Microsoft. You can see my progress at [Github Education](#GitEducLink).
+     - I earned the badge by starting an Oracle Academy course. I am aiming to be certified by the Oracle.
      - An other platform that I use to study is the Learning and you can see all my [certifications](#inCertifications) at my LinkedIn profile.
      - If you want to know more about my journey and thoughts you can visit my [blog](#github_pages) that I've created with Github Pages.  
 
@@ -36,6 +38,7 @@
      - <a name="TQIrepository" href="https://github.com/Moura196/dio-desafio-github/tree/main/1%C2%BA%20Bootcamp%20FQI%20Fullstack%20Developer">Fullstack Developer TQI Bootcamp<a>
      - <a name="MLrepository" href="https://github.com/Moura196/dio-desafio-github/tree/main/Formacao%20Machine%20Learning%20Specialist">Formação Machine Learning Specialist<a>
      - <a name="KDEVrepository" href="https://github.com/Moura196/dio-desafio-github/tree/main/Forma%C3%A7%C3%A3o%20Kotlin%20Back-end%20Developer">Formação Kotlin Back-end Developer<a>
+     - <a name="GitEducLink" href="https://learn.microsoft.com/pt-br/users/gabrielmoura-6573/">Github Educations Certifications</a>
      - <a name="inCertifications" href="https://www.linkedin.com/in/gabrielmoura96/details/certifications/">LinkedIn certifications</a>
      - <a name="github_pages" href="https://moura196.github.io/Moura196/">My blog</a>
 
