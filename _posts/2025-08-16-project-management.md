@@ -3,7 +3,7 @@ layout: default
 title: "Project Management"
 ---
 
-<!--# Project Management-->
+# Project Management
 
 This section contains posts about project management, workflows and tools.
 <ul>
