@@ -47,7 +47,6 @@ This process ensures that your main branch always remains stable and that develo
 
 ### Comandos GitFlow
 Here are some common Git commands you'll use:
-
 #### - Iniciar gitflow: (mapeia as branch e cria a main e develop)  
     git flow init  
 #### - Inicializa a branch feature:  
