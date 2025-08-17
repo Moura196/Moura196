@@ -1,5 +1,5 @@
 ---
-laytou: default
+layout: default
 title: "Project Management"
 ---
 
