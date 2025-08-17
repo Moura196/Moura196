@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Understanding GitFlow: A Practical Guide to Better Project Management"
+title: "Understanding GitFlow: Improving Project Management"
 date: 2025-08-17 15:55
 category: project-management
 ---
