@@ -48,20 +48,20 @@ This process ensures that your main branch always remains stable and that develo
 ### Comandos GitFlow
 Here are some common Git commands you'll use:
 
-#### - Iniciar gitflow: (mapeia as branch e cria a main e develop)
-    git flow init
-#### - Inicializa a branch feature:
-    git flow feature start <nome_issue_funcionalidade>
-#### - Finaliza a branch feature:
-    git flow feature finish <nome_issue_funcionalidade>
-#### - Inicializa a branch release:
-    git flow release start <tag -> 0.1.0>
-#### - Finaliza a branch release:
-    git flow release finish <tag -> 0.1.0>
-#### - Inicializa a branch hotfix:
-    git flow hotfix start <tag -> 0.0.1>
-#### - Finaliza a branch hotfix:
-    git flow hotfix finish <tag -> 0.0.1>
+#### - Iniciar gitflow: (mapeia as branch e cria a main e develop)  
+    git flow init  
+#### - Inicializa a branch feature:  
+    git flow feature start <nome_issue_funcionalidade>  
+#### - Finaliza a branch feature:  
+    git flow feature finish <nome_issue_funcionalidade>  
+#### - Inicializa a branch release:  
+    git flow release start <tag -> 0.1.0>  
+#### - Finaliza a branch release:  
+    git flow release finish <tag -> 0.1.0>  
+#### - Inicializa a branch hotfix:  
+    git flow hotfix start <tag -> 0.0.1>  
+#### - Finaliza a branch hotfix:  
+    git flow hotfix finish <tag -> 0.0.1>  
 
 ### Why Use GitFlow?  
 GitFlow provides a structured and disciplined approach to software development. It makes it easier to track what's ready for production, what's in development, and what's being prepared for release. This can significantly reduce confusion and errors, especially for larger teams.
