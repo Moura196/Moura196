@@ -6,6 +6,7 @@ title: "Project Management"
 # Project Management
 
 This section contains posts about project management, workflows and tools.
+
 <ul>
   {% for posts in site.categories.project-management %}
     <li>
