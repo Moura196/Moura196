@@ -1,6 +1,7 @@
 ---
 laytou: default
 title: "Project Management"
+---
 
 # Project Management
 
@@ -13,4 +14,3 @@ This section contains posts about project management, workflows and tools.
     </li>
   {% endfor %}
 </ul>
----
