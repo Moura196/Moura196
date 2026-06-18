@@ -1,4 +1,15 @@
-# Web and Mobile Fullstack Developer
+<div align="center">
+   
+# Hello, I am Gabriel Moura 
+### Web and Mobile Fullstack Developer · Java/Kotlin com Spring Boot · Automação com Python
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabrielmoura96-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmoura96/)
+[![Gmail](https://img.shields.io/badge/Gmail-gmendesmoura@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gmendesmoura@gmail.com)
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-rafaorleaes.github.io-8b5cf6?style=flat-square&logo=github&logoColor=white)](https://rafaorleaes.github.io)
+![Profile Views](https://komarev.com/ghpvc/?username=rafaorleaes&label=Visualizações&color=8b5cf6&style=flat-square)-->
+
+</div>
+   
    - ## About me:
      - Graduated on Systems Analysis and Development at Senai-SC, focus on becoming a Web and Mobile Fullstack developer.
      - Started a specialization course focus on Java technology at UTFPR to get a better understand of what is this programming language potential.
